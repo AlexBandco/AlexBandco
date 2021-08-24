@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 ### Learning and improving skills
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Javascript-339933?style=for-the-badge&logo=Javascript&logoColor=white)
