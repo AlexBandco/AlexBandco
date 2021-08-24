@@ -4,7 +4,8 @@
 - 👀 I’m interested in web design and web development
 - 🌱 Now I'm learning javascript, developing sites on freelance
 - 💞️ I want to develop websites on the react framework
-- 📫 How to contact me: https://t.me/Alex_Bandco
+- 📫 How to contact me: ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)
+-  <https://t.me/Alex_Bandco>
 
 <!---
 AlexBandco/AlexBandco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)
+
