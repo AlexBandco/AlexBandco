@@ -4,8 +4,10 @@
 - 👀 I’m interested in web design and web development
 - 🌱 Now I'm learning javascript, developing sites on freelance
 - 💞️ I want to develop websites on the react framework
-- 📫 How to contact me: ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)(http://example.com/ "Необязательная подсказка")
--  <https://t.me/Alex_Bandco>
+- 📫 How to contact me: ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)
+- [Telegram](https://t.me/Alex_Bandco)
+- (http://example.com/ "Необязательная подсказка")
+- <https://t.me/Alex_Bandco>
 [Telegram](http://example.com/ "Необязательная подсказка")
 <!---
 AlexBandco/AlexBandco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
