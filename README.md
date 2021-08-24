@@ -1,6 +1,6 @@
 # Hi people!
 ## About me
-- 👋 Hi, I’m @AlexBandco
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in web design and web development
 - 🌱 Now I'm learning javascript, developing sites on freelance
 - 💞️ I want to develop websites on the react framework
