@@ -2,7 +2,7 @@
 ## About me ##
 👋 Hi, I’m Alex
 ###
-👀 I’m interested in web design and web development
+👀 I’m interested in web development
 ###
 🌱 Now I'm learning JavaScript and PHP, develop websites using the CMS WordPress.
 ###
