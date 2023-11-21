@@ -4,7 +4,7 @@
 ###
 👀 I’m interested in web design and web development
 ###
-🌱 Now I'm learning javascript, developing sites on freelance
+🌱 Now I'm learning JavaScript and PHP, develop websites using the CMS WordPress.
 ###
 💞️ I want to develop websites on the react framework
 ###
